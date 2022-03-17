@@ -1,0 +1,14 @@
+{
+  "name": "jslearning",
+  "version": "1.0.0",
+  "description": "Js practice ",
+  "main": "main.js",
+  "scripts": {
+    "test": "helloworld"
+  },
+  "author": "Anatolii Pr",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.2"
+  }
+}
