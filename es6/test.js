@@ -5,7 +5,7 @@ const sentences = [
   { subject: "Elephants", verb: "are", object: "large" },
 ];
 
-function say({ subject, vereb, object }) {
+function say({ subject, verb, object }) {
   console.log(`${subject} ${verb} ${object}`);
 }
 
